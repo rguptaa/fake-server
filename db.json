@@ -2,46 +2,25 @@
    "costCenter":"fuel",
    "subCost":"gasoline",
    "data":[
-      
       {
-         "estimatedCost":2733,
-         "date":"2020-03-18-12-00"
+         "estimatedCost":2312,
+         "date":"2020-02-24-12-00"
       },
       {
-         "estimatedCost":3175,
-         "date":"2020-03-19-12-00"
+         "estimatedCost":9396,
+         "date":"2020-03-02-12-00"
       },
       {
-         "estimatedCost":0,
-         "date":"2020-03-20-12-00"
+         "estimatedCost":9516,
+         "date":"2020-03-09-12-00"
       },
       {
-         "estimatedCost":0,
-         "date":"2020-03-21-12-00"
+         "estimatedCost":9603,
+         "date":"2020-03-16-12-00"
       },
       {
-         "estimatedCost":119,
-         "date":"2020-03-22-12-00"
-      },
-      {
-         "estimatedCost":1353,
+         "estimatedCost":10117,
          "date":"2020-03-23-12-00"
-      },
-      {
-         "estimatedCost":1848,
-         "date":"2020-03-24-12-00"
-      },
-      {
-         "estimatedCost":2223,
-         "date":"2020-03-25-12-00"
-      },
-      {
-         "estimatedCost":3447,
-         "date":"2020-03-26-12-00"
-      },
-      {
-         "estimatedCost":1246,
-         "date":"2020-03-27-12-00"
       }
    ]
 }
